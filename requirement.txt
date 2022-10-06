@@ -1,3 +1,4 @@
+beautifulsoup4==4.11.1
 FuzzyTM==1.0.0
 gensim==4.2.0
 jupyterlab==3.4.7
