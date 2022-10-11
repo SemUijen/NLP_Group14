@@ -41,6 +41,10 @@ ipython_config.py
 # VENV (PyCharm)
 venv/
 
+# checkpoints
+checkpoints/*
+!checkpoints/.gitkeep
+
 # data
 data/*
 !data/.gitkeep
