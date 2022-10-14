@@ -5,6 +5,7 @@ jupyterlab==3.4.7
 matplotlib==3.5.3
 nltk==3.7
 pandas==1.4.4
+pandas-market-calendars==4.1.0
 scikit-learn==1.1.2
 spacy==3.4.1
 tqdm==4.64.1
